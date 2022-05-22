@@ -11,7 +11,6 @@ Presenta el uso de:
     <li>scanf para ingresar datos</li>
     <li>Operacion matemáticas básicas</li>
     <li>El uso de #include para añadir librerias</li>
-    <li>Comentarios para la documentación interna del programa.</li>
   </ul>
 </p>
 
